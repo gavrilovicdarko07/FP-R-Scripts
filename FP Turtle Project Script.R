@@ -694,5 +694,5 @@ chi_square_result
 
 # Differences not significant (p-value = 0.5991)
 
-# testing changes in git
+# testing changes in R, push to Git repo
 
